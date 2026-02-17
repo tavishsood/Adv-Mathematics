@@ -18,6 +18,10 @@ We use **NO₂ (Nitrogen Dioxide)** concentration as the feature variable.
 7. Compute λ and c
 8. Plot histogram vs learned PDF
 
-## Visualization
+## Calculate 
+
+## Visualization λ and μ values
+* λ = 0.0014605519159744313
+* μ = 25.811446214420034
 
 ![Histogram](./histogram.png)
